@@ -1,0 +1,72 @@
+.col-md-10 {
+
+    padding: 60px 0;
+}
+
+.fontname{
+    font-family: cursive;
+}
+
+.panel-heading a:after {
+    font-family:'Glyphicons Halflings';
+    content:"\2212";
+    float: right;
+    color: grey;
+}
+.panel-heading a.collapsed:after {
+    content:"\2b";
+}
+
+.panel-heading a:after {
+  font-family:'Glyphicons Halflings';
+  content:"\2212";
+  float: right;
+  color: grey;
+}
+.panel-heading a.collapsed:after {
+  content:"\2b";
+}
+
+.tablinks  {
+    height: 48px;
+    padding: 0 24px;
+    cursor: pointer;
+    box-sizing: border-box;
+    opacity: .6;
+    min-width: 160px;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    vertical-align: top;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+
+.one {
+  width: 35px;
+}
+
+.two {
+  width: 35px;
+}
+
+.three {
+  width: 35px;
+}
+
+.btn-primary {
+
+
+}

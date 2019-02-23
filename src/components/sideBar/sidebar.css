@@ -1,0 +1,113 @@
+.imagecontainer{
+    width: 110px;
+    padding: -1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 58%;
+}
+
+.imagecontain{
+    width: 110px;
+    margin: auto;
+    padding: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.side-heading {
+    display: -webkit-box;
+}
+.analysis{
+    width: 50px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.side-headi {
+    display: -webkit-box;
+}
+.actio{
+    width: 20px;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+}
+
+.side-headiS {
+    display: -webkit-box;
+}
+.actioS {
+    width: 20px;
+    margin: auto;
+    padding: 21px;
+    align-items: center;
+}
+
+
+.actions {
+    width: 40px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.settings {
+    width: 40px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+
+.bgColor input [type="submit"]:hover
+{
+    background-color: rgba(0,0,0,.08);
+}
+.sidenav {
+    height: 100%;
+    width: 231px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.08);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 11px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover  {
+    color: #1bbf6d;
+    background-color: #9ef3c8; 
+  }
+  .doc {
+    outline: unset;
+    text-decoration: unset;
+    padding: 8px 22px!important;
+    color: #1bbf6d;
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  .doc :hover {
+    background-color: #d1d6d3;
+  }
+  .doc h4 {
+      padding: 15px;;
+      cursor: pointer;
+  }
+
+  
